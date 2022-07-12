@@ -1,0 +1,7 @@
+a = 2
+b= 3
+print("before swapping  a and b are {a} and {b}")
+temp = a
+a= b
+b = temp
+print("After swapping a and b are {a} and {b}")
