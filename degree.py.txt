@@ -1,0 +1,3 @@
+degree = 12
+farehnit = 1.8* degree + 32
+print("the value of degree to farehnit is {farehnit}")
